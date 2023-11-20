@@ -1,16 +1,1 @@
-# airbnb_clone
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a Airbnb_clone developed using flutter Prerequisites for Running this application include : Operating Systems: Windows 10 or later (64-bit), x86-64 based Disk Space: 2.5 GB (does not include disk space for IDE/tools) Android Studio (Recommended version above or equal to Bumblebee (2021.1.1)) Dart programming language Flutter SDK Installed in Android studio. This cloned website works fine with all the frontend functionalities including use-cases like ● Users are able to view property listings with details like price, location, and amenities. ● A search functionality Implemented allowing users to filter properties based on location, date, and price range. ● Users will be able to "like" or save a property for later viewing. ● A simple booking system (date selection, number of guests) implemented.
